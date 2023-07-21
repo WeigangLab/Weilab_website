@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>zyt，作者WEI LAB</title>
-	<atom:link href="http://47.113.145.233/author/zyt/feed/?simply_static_page=416" rel="self" type="application/rss+xml" />
-	<link>http47.113.145.233:32/author/zyt/</link>
+	<title>zyt &#8211; WEI LAB</title>
+	<atom:link href="http://47.113.145.233/author/zyt/feed/?simply_static_page=1254" rel="self" type="application/rss+xml" />
+	<link>http47.113.145.233:32/</link>
 	<description></description>
 	<lastBuildDate>Tue, 18 Jul 2023 13:34:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -29,12 +29,9 @@
 				<category><![CDATA[未分类]]></category>
 		<guid isPermaLink="false">http47.113.145.233:32/?p=1</guid>
 
-					<description><![CDATA[<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
-<p><a rel="nofollow" href="http47.113.145.233:32/hello-world/">世界，您好！</a>最先出现在<a rel="nofollow" href="http47.113.145.233:32/">WEI LAB</a>。</p>
-]]></description>
+					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
 										<content:encoded><![CDATA[
 <p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
-<p><a rel="nofollow" href="http47.113.145.233:32/hello-world/">世界，您好！</a>最先出现在<a rel="nofollow" href="http47.113.145.233:32/">WEI LAB</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http47.113.145.233:32/hello-world/feed/</wfw:commentRss>
