@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WEI LAB</title>
+	<atom:link href="http://47.113.145.233/feed/?simply_static_page=382" rel="self" type="application/rss+xml" />
+	<link>http47.113.145.233:32/</link>
+	<description></description>
+	<lastBuildDate>Tue, 18 Jul 2023 13:34:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>世界，您好！</title>
+		<link>http47.113.145.233:32/hello-world/</link>
+					<comments>http47.113.145.233:32/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[zyt]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2023 13:34:59 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">http47.113.145.233:32/?p=1</guid>
+
+					<description><![CDATA[<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
+<p><a rel="nofollow" href="http47.113.145.233:32/hello-world/">世界，您好！</a>最先出现在<a rel="nofollow" href="http47.113.145.233:32/">WEI LAB</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
+<p><a rel="nofollow" href="http47.113.145.233:32/hello-world/">世界，您好！</a>最先出现在<a rel="nofollow" href="http47.113.145.233:32/">WEI LAB</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http47.113.145.233:32/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
