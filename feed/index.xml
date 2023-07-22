@@ -9,8 +9,8 @@
 
 <channel>
 	<title>WEI LAB</title>
-	<atom:link href="http://47.113.145.233/feed/?simply_static_page=1217" rel="self" type="application/rss+xml" />
-	<link>http47.113.145.233:32/</link>
+	<atom:link href="http://47.113.145.233/feed/?simply_static_page=4505" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Tue, 18 Jul 2023 13:34:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>世界，您好！</title>
-		<link>http47.113.145.233:32/hello-world/</link>
-					<comments>http47.113.145.233:32/hello-world/#comments</comments>
+		<link>./../hello-world/index.html</link>
+					<comments>./../hello-world/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[zyt]]></dc:creator>
 		<pubDate>Tue, 18 Jul 2023 13:34:59 +0000</pubDate>
 				<category><![CDATA[未分类]]></category>
-		<guid isPermaLink="false">http47.113.145.233:32/?p=1</guid>
+		<guid isPermaLink="false">./../index.html?p=1</guid>
 
 					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
 										<content:encoded><![CDATA[
 <p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http47.113.145.233:32/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>./../hello-world/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
